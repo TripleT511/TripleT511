@@ -1,4 +1,4 @@
-# Hi there, I'm Triple T511 👋 ☠️
+# Hi there, I'm Triple T511 👋 🚀
 
 - 🌱 I’m currently learning IT at 
 Cao Thang Technical College
