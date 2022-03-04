@@ -10,7 +10,7 @@ Cao Thang Technical College
 </p>
 
 ### Languages and Tools:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triplet511&show_icons=true&locale=en&layout=compact" alt="triplet511" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triplet511&show_icons=true&locale=en&layout=compact" alt="triplet511" style="margin-bottom: 10px" height="200"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triplet511&show_icons=true&locale=en" alt="triplet511" height="200"/></p>
 
