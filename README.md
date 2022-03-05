@@ -9,6 +9,4 @@ Cao Thang Technical College
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triplet511&show_icons=true&locale=en" alt="triplet511" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triplet511&" alt="triplet511" /></p>
-
-
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TripleT511&date_format=M%20j%5B%2C%20Y%5D&ring=0066FF&fire=0066FF&currStreakLabel=0066FF" alt="triplet511" /></p>
